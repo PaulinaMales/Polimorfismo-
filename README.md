@@ -1,4 +1,4 @@
 # Polimorfismo
-**Integrantes:**
+***Integrantes:***
 - Males Paulina
 - Moreira Marcos
